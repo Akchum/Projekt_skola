@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Coin
+comment1.params=
+comment1.target=Coin()
+comment2.params=
+comment2.target=java.awt.Image\ getImage()
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=
+comment4.target=int\ getY()
+numComments=5
